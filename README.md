@@ -1,2 +1,2 @@
 # recipe-test
-html/css only
+Html/Css only
